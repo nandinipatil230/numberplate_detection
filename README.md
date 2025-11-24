@@ -1,2 +1,2 @@
-# numberplate_detection
-Automatic Number Plate Detection (ANPR) is a computer vision system that captures vehicle images via cameras, uses optical character recognition (OCR) to read license plates, and converts them into text data. This enables real-time tracking, traffic enforcement, parking management, tolling, and security applications.
+# Number-Plate-Recognition
+Number Plate Detection System is a real-time computer vision technology to extract the license number of vehicles from images. It is an embedded system which has numerous applications and challenges. The system works satisfactorily for wide variations in illumination conditions and different types of number plates commonly found across the world. This project uses Python and the Open Computer Vision Library (OpenCV).
